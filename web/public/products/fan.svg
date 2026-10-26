@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" role="img" aria-label="Ventilateur rechargeable">
+  <defs><linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#aab6c3"/><stop offset=".45" stop-color="#f3f6f9"/><stop offset="1" stop-color="#9aa8b7"/></linearGradient><linearGradient id="bg" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#202733"/></linearGradient></defs>
+  <rect x="0" y="0" width="280" height="300" rx="18" fill="url(#bg)"/>
+  <ellipse cx="140" cy="270" rx="92" ry="10" fill="#d6e0eb" opacity=".75"/>
+  <path d="M140 70V234" stroke="#525f70" stroke-width="8"/><circle cx="140" cy="88" r="55" fill="#d7dee6" stroke="#778596" stroke-width="5"/><path d="M140 36 Q183 43 190 83 L140 88Z" fill="#657487"/><path d="M140 88L99 52 Q79 85 98 118Z" fill="#8b98a8"/><path d="M140 88L180 122 Q151 151 124 137Z" fill="#8b98a8"/><circle cx="140" cy="88" r="12" fill="#29384a"/><path d="M101 236H179L191 250H89Z" fill="#252e3b" stroke="#5c6878" stroke-width="3"/>
+</svg>

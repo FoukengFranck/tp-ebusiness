@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" role="img" aria-label="Climatiseur">
+  <defs><linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#aab6c3"/><stop offset=".45" stop-color="#f3f6f9"/><stop offset="1" stop-color="#9aa8b7"/></linearGradient><linearGradient id="bg" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eaf0f7"/></linearGradient></defs>
+  <rect x="0" y="0" width="280" height="300" rx="18" fill="url(#bg)"/>
+  <ellipse cx="140" cy="270" rx="92" ry="10" fill="#d6e0eb" opacity=".75"/>
+  <rect x="28" y="95" width="224" height="80" rx="12" fill="#f8fafc" stroke="#aab8c8" stroke-width="4"/><rect x="43" y="112" width="194" height="10" rx="5" fill="#d6e0ea"/><path d="M55 146H225" stroke="#9aaabd" stroke-width="4" stroke-linecap="round"/><path d="M72 156l-8 12M112 156l-8 12M152 156l-8 12M192 156l-8 12" stroke="#c1ccd8" stroke-width="3"/>
+</svg>

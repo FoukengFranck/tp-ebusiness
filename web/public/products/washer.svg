@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" role="img" aria-label="Machine à laver">
+  <defs><linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#aab6c3"/><stop offset=".45" stop-color="#f3f6f9"/><stop offset="1" stop-color="#9aa8b7"/></linearGradient><linearGradient id="bg" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dfe6ed"/></linearGradient></defs>
+  <rect x="0" y="0" width="280" height="300" rx="18" fill="url(#bg)"/>
+  <ellipse cx="140" cy="270" rx="92" ry="10" fill="#d6e0eb" opacity=".75"/>
+  <rect x="65" y="25" width="150" height="240" rx="12" fill="#c8d2dd" stroke="#8796a8" stroke-width="4"/><rect x="78" y="39" width="124" height="35" rx="5" fill="#edf2f7"/><circle cx="140" cy="163" r="61" fill="#7d8c9c" stroke="#f6f9fc" stroke-width="8"/><circle cx="140" cy="163" r="45" fill="#182b41"/><circle cx="140" cy="163" r="32" fill="#42617d"/><circle cx="103" cy="55" r="5" fill="#0f6ccf"/><circle cx="121" cy="55" r="5" fill="#96a4b4"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 300" role="img" aria-label="Plaque à gaz">
+  <defs><linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#aab6c3"/><stop offset=".45" stop-color="#f3f6f9"/><stop offset="1" stop-color="#9aa8b7"/></linearGradient><linearGradient id="bg" y1="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#252b35"/></linearGradient></defs>
+  <rect x="0" y="0" width="280" height="300" rx="18" fill="url(#bg)"/>
+  <ellipse cx="140" cy="270" rx="92" ry="10" fill="#d6e0eb" opacity=".75"/>
+  <rect x="25" y="85" width="230" height="130" rx="12" fill="#202833" stroke="#596575" stroke-width="4"/><circle cx="83" cy="127" r="28" fill="none" stroke="#8e9aa8" stroke-width="5"/><circle cx="83" cy="127" r="17" fill="none" stroke="#8e9aa8" stroke-width="4"/><circle cx="183" cy="127" r="28" fill="none" stroke="#8e9aa8" stroke-width="5"/><circle cx="183" cy="127" r="17" fill="none" stroke="#8e9aa8" stroke-width="4"/><circle cx="83" cy="181" r="16" fill="none" stroke="#8e9aa8" stroke-width="4"/><circle cx="183" cy="181" r="16" fill="none" stroke="#8e9aa8" stroke-width="4"/>
+</svg>

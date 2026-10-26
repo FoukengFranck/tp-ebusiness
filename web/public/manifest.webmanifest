@@ -1,0 +1,10 @@
+{
+  "name": "Batobaye Market",
+  "short_name": "Batobaye",
+  "description": "Boutique électroménager avec panier utilisable hors ligne",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#06264b",
+  "icons": []
+}
